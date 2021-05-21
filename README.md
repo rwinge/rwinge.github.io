@@ -1,2 +1,6 @@
 # rwinge.github.io
-Terminal based portfolio website for rwinge
+Static terminal based portfolio website for my small projects, notes and stuff.
+
+This might or might not get updated..
+
+¯\_(ツ)_/¯
