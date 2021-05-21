@@ -1,0 +1,10 @@
+<span id="a">user@laptop</span>:<span id="b">~</span><span id="c">$</span> cd rwinge/<!-- laglaglaglaglag -->About_Us
+<span id="a">user@laptop</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglag -->rwinge.txt<br/><br/>
+I have no idea of what I'm doing here.. But it seems.. hmm.. <span id="k">nice</span>. <!-- laglaglag -->
+
+Hey here! My name is Ronni Hansen and I'm just a silly network engineer.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>With just a little interest in coding.</p>
+<p>This is my little space in the big web.</p> <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Mabye more stuff will get trough to my portfolio here at <a href="https://github.com/rwinge"> gitbub</a>.</p><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>Soo.. anyawy.. <br><br><br>Think this is it for now..</p><!-- laglaglaglaglaglaglaglaglaglaglaglaglaglaglag -->
+
+<p>Cheers!</p>
